@@ -7,6 +7,8 @@ From theHuman Activity Recognition Using Smartphones Dataset
 Version 1.0; developed by: Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 activityrecognition@smartlab.ws
 
+Original Data and explanation: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 ==================================================================
 
 The experiments were done with 30 volunteers within an age bracket of 19-48 years, performing six activities wearing a smartphone on thier waist:
@@ -21,4 +23,6 @@ The purpose of the project was to Tidy the data set:
  * Apply descriptive activity names to name the activities in the data set
  * Appropriately labels the data set with descriptive variable names. 
  * From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject
+ * 
+ Scripts to accomplish this are stored in run_analysis.R
 
