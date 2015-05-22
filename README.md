@@ -6,7 +6,7 @@ This project uses  data collected from the accelerometers from the Samsung Galax
 From theHuman Activity Recognition Using Smartphones Dataset
 Version 1.0; developed by: Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 activityrecognition@smartlab.ws
-www.smartlab.ws
+
 ==================================================================
 
 The experiments were done with 30 volunteers within an age bracket of 19-48 years, performing six activities wearing a smartphone on thier waist:
